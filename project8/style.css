@@ -1,0 +1,76 @@
+.heading{
+    background-color: rgb(37, 199, 199);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: x-large;
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-bottom: 15px;
+}
+.foot{
+    background-color: rgb(37, 199, 199);
+    text-align: center;
+    padding: 10px;
+    font-size: x-large;
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-top: 15px;
+}
+a{
+    color: white;
+    padding: 35px;
+}
+.box{
+    width: 100%;
+    border-left: 5px solid red;
+    border-right: 5px solid rgb(233, 16, 179);
+    border-top: 5px solid green;
+    border-bottom: 5px solid blue;
+    background-color:rgb(37, 199, 199) ;
+    padding: 10px;
+    color: white;
+    
+}
+#food{
+    text-align: center;
+    color: white;
+}
+#img1{
+    border: 8px solid skyblue;
+    width: 200px;
+    margin-left: 400px;
+}
+#img2{
+    border: 8px dotted skyblue;
+    width: 240px;
+    height: 200px;
+}
+#img3{
+    border: 8px dotted skyblue;
+    width: 200px;
+    height: 200px;
+    margin-left: 510px;
+}
+#img4{
+    border: 8px solid skyblue;
+    margin-left: 400px;
+    width: 200px;
+    height: 200px;
+}
+#img5{
+    border: 8px solid skyblue;
+    width: 200px;
+    height: 200px;
+}
+#img6{
+    border: 8px solid skyblue;
+    width: 200px;
+    height: 200px;
+    margin-left: 400px;
+}
+#img7{
+    border: 8px solid skyblue;
+    width: 200px;
+    height: 200px;
+}
